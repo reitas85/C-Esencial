@@ -1,4 +1,4 @@
-/* Programa: Hola mundo */
+/* Escribe Programa: Hola mundo */
 
 #include <conio.h>
 #include <stdio.h>
